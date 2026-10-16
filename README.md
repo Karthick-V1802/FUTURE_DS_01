@@ -16,4 +16,3 @@ Working on this project helped me improve my analytical thinking, data interpret
 
 Looking forward to building more projects and expanding my skills in data analytics! 🚀✨
 
-#FutureInterns #Internship #DataAnalytics #DataVisualization #BusinessIntelligence #Dashboard #SalesAnalysis #ProfitabilityAnalysis #DataAnalysis #ProjectShowcase #LearningJourney
